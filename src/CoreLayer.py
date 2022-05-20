@@ -1,0 +1,6 @@
+from BaseLayer import BaseLayer
+
+class DenseLayer(BaseLayer): ...
+
+class InputLayer(BaseLayer): ...
+
